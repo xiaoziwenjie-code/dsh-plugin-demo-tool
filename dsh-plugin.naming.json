@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "policy": "dsh-plugin-naming/v1",
+  "plugin": {
+    "namespace": "xiaoziwenjie-code",
+    "name": "demo-tool",
+    "coordinate": "xiaoziwenjie-code/demo-tool",
+    "packageName": "dsh-plugin-demo-tool"
+  },
+  "names": {
+    "pluginNames": [
+      "xiaoziwenjie-code-demo-tool"
+    ],
+    "loaderIds": [
+      "xiaoziwenjie-code-demo-tool"
+    ],
+    "services": [],
+    "tools": [
+      "xiaoziwenjie_code_demo_tool"
+    ],
+    "commands": [],
+    "skills": [],
+    "skillProviders": [],
+    "events": [],
+    "settingsNamespaces": [],
+    "routes": []
+  }
+}
